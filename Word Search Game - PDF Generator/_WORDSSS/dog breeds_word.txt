@@ -1,0 +1,132 @@
+affenpinscher
+afghan hound
+aidi
+akita
+anatolian
+azawakh
+basenji
+basset hound
+beagle
+bearded collie
+bichon frise
+bloodhound
+border collie
+border terrier
+borzoi
+boston terrier
+boxer
+briard
+brittany
+bull mastiff
+bull terrier
+bulldog
+bullmastiff
+cairn terrier
+canaan dog
+cane corso
+cavoodle
+cesky terrier
+chihuahua
+chow chow
+cockapoo
+cocker spaniel
+collie
+dachshund
+dalmatian
+dalmation
+dashshund
+deerhound
+doberman
+dobermann
+english
+english setter
+eskimo dog
+eurasier
+field spaniel
+finnish spitz
+fox terrier
+foxhound
+french bulldog
+german spitz
+golden
+gordon setter
+great dane
+greyhound
+groodle
+harrier
+havanese
+hoverwart
+ibizan hound
+irish setter
+irish terrier
+jack russell
+japanese chin
+japanese spitz
+keeshond
+kio leo
+kishu
+komondor
+kooikerhondje
+kuvasz
+labradoodle
+labrador
+leonberger
+lhasa apso
+lowchen
+maltese
+maltipoo
+mastiff
+mcnab
+moodle
+mudi
+newfoundland
+otterhound
+papillon
+pekingese
+pharaoh hound
+pinscher
+pointer
+pomeranian
+poodle
+pug
+puli
+pumi
+retriever
+rottweiler
+russain toy
+russian toy
+saint bernard
+saluki
+samoyed
+schipperke
+schnauzer
+schnoodle
+shar pei
+sheepdog
+shepherd
+shepherd dog
+shiba inu
+shih tzu
+shih-poo
+shihtzu
+siberian husky
+silky terrier
+skye terrier
+sloughi
+spitz
+spoodle
+st bernard
+sussex spaniel
+terrier
+toy poodle
+vizsla
+weimaraner
+welsh corgi
+welsh terier
+welsh terrier
+west highland
+whippet
+white terrier
+xoloitzcuintle
+yorkshir
+zuchon

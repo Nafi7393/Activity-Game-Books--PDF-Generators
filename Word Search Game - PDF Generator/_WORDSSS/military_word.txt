@@ -1,0 +1,711 @@
+garrison
+soldiery
+militarize
+conscript
+demilitarize
+militarism
+armament
+cantonment
+demobilize
+ordnance
+post
+commandeer
+draft
+billet
+stockade
+muster
+press
+guardhouse
+drill
+strike
+force
+stratocracy
+regimentals
+conscription
+legion
+warfare
+reservist
+air base
+sword
+militarily
+offensive
+installation
+generalship
+blitz
+unmilitary
+action
+aviation
+corps
+enemy
+deactivate
+arsenal
+padre
+medic
+casern
+bomber
+draftee
+retreat
+guardroom
+commander
+operational
+induct
+jackboot
+deferment
+tattoo
+martial
+canteen
+power
+station
+recruit
+pentagon
+cavalier
+majority
+militar
+glasshouse
+field
+warlike
+marshal
+attack
+hardware
+plebe
+brigadier
+soldier
+cadet
+troopship
+hitch
+drive
+flight surgeon
+volunteer
+parade
+thrust
+sector
+battle
+captain
+duty
+enlist
+service
+intel
+samurai
+mangonel
+assault
+outpost
+sirdar
+air force
+redcap
+impress
+antimilitary
+salute
+spearhead
+nonmilitary
+equipage
+militia
+intelligence
+push
+buff
+court
+munitions
+discharge
+bivouac
+major
+quickstep
+manoeuvre
+sortie
+army
+dress parade
+warplane
+hot war
+caudillo
+establishment
+base
+civvies
+charge
+noncom
+brass
+militarist
+troops
+flank
+furlough
+troop
+staff officer
+brigade
+drillmaster
+catapult
+oblique
+robinet
+swagger stick
+levy
+arms
+commission
+dress uniform
+margrave
+draft dodger
+combat
+camp
+defer
+frigate
+maneuver
+lieutenant
+warlord
+command post
+expeditionary
+territorial
+demonstration
+martinet
+constabulary
+disengage
+dry run
+dogfight
+air raid
+unassailable
+batman
+red alert
+wing
+operation
+unit
+sapper
+mission
+dump
+strategic
+general
+destroyer
+mess
+canton
+shako
+humvee
+militaristic
+defence
+commandant
+munition
+emplacement
+theatre
+victory
+effective
+skirmish
+latrine
+active
+sprog
+overage
+grand master
+air power
+inductor
+depot
+subjugate
+cavalry
+fieldwork
+misconduct
+command
+quick time
+about face
+selectee
+countercharge
+civilianize
+convoy
+strategy
+guidon
+magazine
+subdue
+inductee
+filibuster
+division
+groupment
+nasho
+concentration
+dragonnade
+detail
+cruiser
+redeploy
+gong
+private
+investment
+brig
+grade
+campaigner
+land power
+demob
+tactical
+section
+fort
+armour
+accoutre
+contingent
+induction
+beleaguer
+reveille
+hedgehog
+drench
+truncheon
+militancy
+drum major
+rank
+shogun
+spotter
+exercise
+quarter
+hostile
+neutralize
+scout car
+slacker
+train
+outfit
+tanker
+briefing
+front
+blouse
+armed forces
+requisition
+occupied
+fall in
+commando
+olive drab
+mobilize
+fortify
+airman
+polemarch
+anabasis
+infrastructure
+adjutant
+operate
+disengagement
+invasive
+siege
+stratotic
+deploy
+ballista
+staff
+busby
+bandmaster
+crimp
+superpower
+lace
+perimeter
+fighter
+enlistment
+set piece
+issue
+rough
+sign
+naval
+occupation
+air strike
+strike force
+mine
+tank
+standard
+activate
+cashier
+germ warfare
+tour
+reinforce
+commissariat
+saturation
+gunship
+rajput
+scorpion
+leave
+field marshal
+boffin
+pentagonese
+battleship
+armoury
+pyrotechnics
+march
+douglas
+aid station
+inactive
+drungar
+bronze star
+quick march
+leaguer
+engaged
+governor
+militaria
+tunic
+serve
+under arms
+strongpoint
+sally
+damage
+thana
+ammunition
+keep the field
+bukshi
+capitulate
+pyramidal tent
+take the field
+tribune
+praetorianism
+tankette
+airdrome
+court martial
+saber rattling
+cutter
+rollback
+flying camp
+jump off
+nazim
+unsoldierly
+fruit salad
+immartial
+lazaretto
+jump
+air cover
+mount
+outgun
+redoubt
+raid
+dragoon
+bezonian
+indent
+messenger
+scarf
+red horse
+premilitary
+rating
+armature
+battledress
+time
+heriot
+concert band
+skin merchant
+materiel
+scrimshank
+formation
+regiment
+decamp
+bloodless
+umbrella
+engagement
+landsman
+department
+chieftain
+barrack
+fatigue
+post exchange
+hetman
+rearward
+last post
+indefensible
+guard tent
+air gunner
+petrary
+reserve
+air force base
+captainship
+company
+scrambled egg
+sanmicheli
+driven
+element
+field day
+hdqrs
+unmilitarily
+field boot
+rally
+caltrap
+strong
+antipersonnel
+invest
+the pentagon
+divisional
+civvy
+provost
+sagum
+open
+platform
+unharness
+broadax
+bracing
+forceful
+strategics
+kitbag
+hutment
+medal of honor
+chivachie
+mess hall
+todt
+militariness
+blitzkrieg
+council of war
+umpire
+cossack
+irregular
+retire
+column
+allied
+big stick
+civvy street
+sea power
+reyse
+squad
+brevet
+train guard
+junta
+preventive
+unit commander
+trainee
+prescott
+theater
+on limits
+casualty
+foray
+martialist
+disarm
+crewman
+separation
+shufti
+unposted
+motorize
+aldershot
+fleet
+attest
+cadreman
+air police
+drove
+antiaircraft
+mantlet
+leavenworth
+recce
+relieve
+reconnoitre
+commissary
+field dinner
+warbird
+road march
+inactivate
+civilize
+high command
+servicewoman
+pacifism
+sergeant major
+resistance
+terrain
+terrorism
+tankbuster
+observer
+outmarch
+quartering
+rear
+second
+knight marshal
+trench coat
+smokescreen
+pt boat
+pursuiter
+taps
+pass out
+quartermaster
+intern
+penetration
+unregimented
+grand guard
+higher command
+armory
+field position
+guard
+dog tag
+colour
+front line
+undefendable
+timar
+strength
+sealift
+weaponeer
+staff corps
+castrametation
+hawkish
+stripe
+logistics
+decommission
+meathead
+cartouch
+mareschal
+air drill
+cuartel
+deployment
+armoured car
+guardsman
+brass hat
+bowser
+baggage
+battle police
+disposition
+iron cross
+slop chute
+temporary duty
+trophaeum
+fallback
+fighting
+bandsman
+colonel
+cadre
+caisson
+break
+maintain
+percy
+crescent
+infiltrate
+kriegspiel
+onrush
+onslaught
+outgeneral
+platoon
+reinforcement
+field post
+range
+raise
+field rank
+train service
+roster
+sign up
+vexillum
+fortress
+armored
+battalion
+nondefense
+order up
+prowess
+regroup
+reverse
+soldiership
+airbase
+gunfire
+chariotry
+belligerent
+buy off
+campaign
+field gray
+stand down
+iron rations
+sitrep
+orderly room
+knight
+acies
+air commander
+attach
+spear
+call up
+commanding
+change
+cockade
+dispatch box
+buccina
+entrench
+brief
+paramilitary
+armoured
+veteran
+ensign
+sword service
+trace
+tuchun
+transport
+trebuchet
+firepower
+multipolar
+secure
+panzer
+preparedness
+sialkot
+slick
+standing army
+retaliation
+ground attack
+quintain
+tactics
+police
+ballot
+civil aviation
+ataman
+cookhouse
+conquest
+corpsman
+cleon
+alla turca
+dog soldier
+dispatch
+chapel
+grande tenue
+civilianism
+boot camp
+retake
+alferez
+airpower
+exhaustion
+field jacket
+havelock cap
+furnish out
+judge advocate
+amphibious
+linkup
+onager
+join up
+maneuvers
+sky pilot
+queer fellow
+service dress
+subchaser
+jump jet
+picket line
+punch
+railhead
+recruiter
+discipline
+skipper
+separate
+separatee
+serviceman
+squadron
+storming party
+wind band
+magistrate
+citizen king
+overslaugh
+soften up
+armada
+attention
+breakthrough
+storm
+stratagem
+yardbird
+invade
+cateran
+stormtrooper
+encounter
+fortification
+flight
+flight leader
+fall out
+evacuate
+exit strategy
+clausewitz
+confidential
+interval
+infantry
+jankers
+martial law
+djerrid
+almond rock
+artillery
+british warm
+stealth bomber
+attrit
+armor
+countervalue
+basic training
+chauvinism
+battlefront
+mrap vehicle
+disarmament
+sergeant
+skeletonize
+merchant ship
+press gang
+roundel
+radeau
+offense
+vanguard
+tactically
+spy plane
+stand to
+tournament
+aggression
